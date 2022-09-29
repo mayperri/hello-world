@@ -1,6 +1,8 @@
 # hello-world
 Assignment 2
 ## May Perriello
-### Canidiate for Master's in Software Development
+### Candidate for Master's in Software Development
 
-** Hello!**
+*Hello*
+
+Updated readme file, enjoy!
